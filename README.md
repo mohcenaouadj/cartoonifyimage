@@ -5,4 +5,4 @@ Mohcen AOUADJ
 
 The purpose of this project is to work on Opencv transformations, converting to grayscale, smoothing, edge detecting .. in this purpose we gonna create an application that transforms normal human being pic into a cortoon style pic using mainly OpenCV library.
 
-![My Remote Image](/home/mohcine/Pictures/index.png)
+![alt text](/home/mohcine/Pictures/index.png)
